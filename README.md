@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vehs-adinev
-- 👀 I’m interested in Website Automation
-- 🌱 I’m currently learning Java for automation
+- 👀 I’m interested in Web Services Automation
+- 🌱 I’m currently learning Java and Groovy for automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adinev@ehs.com
 
